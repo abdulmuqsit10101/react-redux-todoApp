@@ -1,0 +1,7 @@
+export const TODO_ADDITION = "TODO_ADDITION";
+// export const TOGGLE_TODO = "TOGGLE_TODO";
+// export const SET_FILTER = "SET_FILTER";
+
+export const TODO_COMPLETED = "TODO_COMPLETED";
+export const UNDO_COMPLETED = "UNDO_COMPLETED";
+export const REMOVE_ALL_TASKS = "REMOVE_ALL_TASKS";
